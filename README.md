@@ -1,4 +1,5 @@
-# MachineLearning_Classification_TitanicDataset
+# Survival Prediction on the Titanic
+
 This project aims on training the titanic dataset on all the machine learning classification Algorithms and compare the accuracy of the models.
 The clasiification algorithms used in the projects are:
 - Logistic Regression
